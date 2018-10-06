@@ -12,6 +12,20 @@
 		AC4FDCDA21690A4C0072B565 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCD821690A4C0072B565 /* Main.storyboard */; };
 		AC4FDCDC21690A4D0072B565 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCDB21690A4D0072B565 /* Assets.xcassets */; };
 		AC4FDCDF21690A4D0072B565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCDD21690A4D0072B565 /* LaunchScreen.storyboard */; };
+		AC4FDCE721690B8E0072B565 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4FDCE621690B8E0072B565 /* Extensions.swift */; };
+		AC4FDCF6216916FE0072B565 /* d1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCE9216916FD0072B565 /* d1.mp3 */; };
+		AC4FDCF7216916FE0072B565 /* g1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCEA216916FD0072B565 /* g1.mp3 */; };
+		AC4FDCF8216916FE0072B565 /* f1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCEB216916FD0072B565 /* f1.mp3 */; };
+		AC4FDCF9216916FE0072B565 /* c1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCEC216916FD0072B565 /* c1.mp3 */; };
+		AC4FDCFA216916FE0072B565 /* c1s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCED216916FE0072B565 /* c1s.mp3 */; };
+		AC4FDCFB216916FE0072B565 /* e1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCEE216916FE0072B565 /* e1.mp3 */; };
+		AC4FDCFC216916FE0072B565 /* g1s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCEF216916FE0072B565 /* g1s.mp3 */; };
+		AC4FDCFD216916FE0072B565 /* c2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF0216916FE0072B565 /* c2.mp3 */; };
+		AC4FDCFE216916FE0072B565 /* b1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF1216916FE0072B565 /* b1.mp3 */; };
+		AC4FDCFF216916FE0072B565 /* d1s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF2216916FE0072B565 /* d1s.mp3 */; };
+		AC4FDD00216916FE0072B565 /* a1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF3216916FE0072B565 /* a1.mp3 */; };
+		AC4FDD01216916FE0072B565 /* f1s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF4216916FE0072B565 /* f1s.mp3 */; };
+		AC4FDD02216916FE0072B565 /* a1s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AC4FDCF5216916FE0072B565 /* a1s.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		AC4FDCDB21690A4D0072B565 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC4FDCDE21690A4D0072B565 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC4FDCE021690A4D0072B565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC4FDCE621690B8E0072B565 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		AC4FDCE9216916FD0072B565 /* d1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = d1.mp3; sourceTree = "<group>"; };
+		AC4FDCEA216916FD0072B565 /* g1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = g1.mp3; sourceTree = "<group>"; };
+		AC4FDCEB216916FD0072B565 /* f1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = f1.mp3; sourceTree = "<group>"; };
+		AC4FDCEC216916FD0072B565 /* c1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = c1.mp3; sourceTree = "<group>"; };
+		AC4FDCED216916FE0072B565 /* c1s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = c1s.mp3; sourceTree = "<group>"; };
+		AC4FDCEE216916FE0072B565 /* e1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = e1.mp3; sourceTree = "<group>"; };
+		AC4FDCEF216916FE0072B565 /* g1s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = g1s.mp3; sourceTree = "<group>"; };
+		AC4FDCF0216916FE0072B565 /* c2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = c2.mp3; sourceTree = "<group>"; };
+		AC4FDCF1216916FE0072B565 /* b1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = b1.mp3; sourceTree = "<group>"; };
+		AC4FDCF2216916FE0072B565 /* d1s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = d1s.mp3; sourceTree = "<group>"; };
+		AC4FDCF3216916FE0072B565 /* a1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = a1.mp3; sourceTree = "<group>"; };
+		AC4FDCF4216916FE0072B565 /* f1s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = f1s.mp3; sourceTree = "<group>"; };
+		AC4FDCF5216916FE0072B565 /* a1s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = a1s.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +82,36 @@
 		AC4FDCD321690A4B0072B565 /* Piano */ = {
 			isa = PBXGroup;
 			children = (
+				AC4FDCE8216916EE0072B565 /* sounds */,
 				AC4FDCD421690A4B0072B565 /* AppDelegate.swift */,
 				AC4FDCD621690A4C0072B565 /* ViewController.swift */,
 				AC4FDCD821690A4C0072B565 /* Main.storyboard */,
 				AC4FDCDB21690A4D0072B565 /* Assets.xcassets */,
 				AC4FDCDD21690A4D0072B565 /* LaunchScreen.storyboard */,
 				AC4FDCE021690A4D0072B565 /* Info.plist */,
+				AC4FDCE621690B8E0072B565 /* Extensions.swift */,
 			);
 			path = Piano;
+			sourceTree = "<group>";
+		};
+		AC4FDCE8216916EE0072B565 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				AC4FDCF3216916FE0072B565 /* a1.mp3 */,
+				AC4FDCF5216916FE0072B565 /* a1s.mp3 */,
+				AC4FDCF1216916FE0072B565 /* b1.mp3 */,
+				AC4FDCEC216916FD0072B565 /* c1.mp3 */,
+				AC4FDCED216916FE0072B565 /* c1s.mp3 */,
+				AC4FDCF0216916FE0072B565 /* c2.mp3 */,
+				AC4FDCE9216916FD0072B565 /* d1.mp3 */,
+				AC4FDCF2216916FE0072B565 /* d1s.mp3 */,
+				AC4FDCEE216916FE0072B565 /* e1.mp3 */,
+				AC4FDCEB216916FD0072B565 /* f1.mp3 */,
+				AC4FDCF4216916FE0072B565 /* f1s.mp3 */,
+				AC4FDCEA216916FD0072B565 /* g1.mp3 */,
+				AC4FDCEF216916FE0072B565 /* g1s.mp3 */,
+			);
+			path = sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +172,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC4FDD01216916FE0072B565 /* f1s.mp3 in Resources */,
+				AC4FDCF7216916FE0072B565 /* g1.mp3 in Resources */,
+				AC4FDCF9216916FE0072B565 /* c1.mp3 in Resources */,
 				AC4FDCDF21690A4D0072B565 /* LaunchScreen.storyboard in Resources */,
+				AC4FDCF6216916FE0072B565 /* d1.mp3 in Resources */,
+				AC4FDCFA216916FE0072B565 /* c1s.mp3 in Resources */,
+				AC4FDCFB216916FE0072B565 /* e1.mp3 in Resources */,
+				AC4FDCFF216916FE0072B565 /* d1s.mp3 in Resources */,
+				AC4FDCFD216916FE0072B565 /* c2.mp3 in Resources */,
+				AC4FDCFC216916FE0072B565 /* g1s.mp3 in Resources */,
+				AC4FDD02216916FE0072B565 /* a1s.mp3 in Resources */,
+				AC4FDCF8216916FE0072B565 /* f1.mp3 in Resources */,
+				AC4FDD00216916FE0072B565 /* a1.mp3 in Resources */,
 				AC4FDCDC21690A4D0072B565 /* Assets.xcassets in Resources */,
 				AC4FDCDA21690A4C0072B565 /* Main.storyboard in Resources */,
+				AC4FDCFE216916FE0072B565 /* b1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC4FDCD721690A4C0072B565 /* ViewController.swift in Sources */,
+				AC4FDCE721690B8E0072B565 /* Extensions.swift in Sources */,
 				AC4FDCD521690A4C0072B565 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +349,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LX4P693W2D;
 				INFOPLIST_FILE = Piano/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +368,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LX4P693W2D;
 				INFOPLIST_FILE = Piano/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
